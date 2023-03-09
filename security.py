@@ -1,4 +1,4 @@
-# secure everything
+# secure everything securely
 
 # secured something else too
 
